@@ -20,7 +20,7 @@ I have the motivation to learn, expand my digital skills in web development. I a
 - Git/GitHub
 ### **EDUCATION**
 
-*Сourse [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)*
+*Сourse [«JavaScript/Front-end. Stage 0»](https://rs.school/courses/javascript-preschool-ru)*
 
 ### **CODE EXAMPLES**
 
