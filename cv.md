@@ -5,7 +5,7 @@
 ### **CONTACT**
 
 Email:  <yuliia.slota@gmail.com>\
-GitHub: [yslota](https://github.com/yullia-slota)
+GitHub: [yslota](https://github.com/yuliia-slota)
 
 ### **CAREER PROFILE**
 
@@ -18,3 +18,16 @@ I have the motivation to learn, expand my digital skills in web development. I a
 - CSS
 - JavaScript
 - Git/GitHub
+### **EDUCATION**
+
+*Сourse [«JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/)*
+
+### **CODE EXAMPLES**
+
+    <head>
+    <title>Test</title>
+    </head>
+
+### **LANGUAGE**
+
+- English - _Pre intermediate_
